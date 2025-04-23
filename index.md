@@ -3,7 +3,7 @@ layout: default
 title: Ashna Gupta
 ---
 ## Welcome!
-<img src="/assets/css/profile.JPEG" alt="Ashna" width="120" height="120" style="border-radius: 50%; object-fit: cover; display: block; margin: 0 auto 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+<img src="/assets/css/profile.JPEG" alt="Ashna" width="150" height="150" style="border-radius: 50%; object-fit: cover; display: block; margin: 0 auto 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 
 Hi, I’m Ashna, an early admit M.Eng student at Cornell. I'm interested in software development, data engineering, and machine learning. I hope to be a data scientist in the near future!
 ---
