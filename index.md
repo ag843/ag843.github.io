@@ -3,6 +3,7 @@ layout: default
 title: Ashna Gupta
 ---
 ## Welcome!
+![Me](/assets/img/profile.jpg)
 
 Hi, I’m Ashna, an early admit M.Eng student at Cornell. I'm interested in software development, data engineering, and machine learning. I hope to be a data scientist in the near future!
 ---
