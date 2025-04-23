@@ -4,7 +4,7 @@ title: Ashna Gupta
 ---
 # Welcome!
 
-Hi, I’m **Ashna Gupta**! I'm pursuing an M.Eng in Operations Research & Information Engineering with a concentration in Data Analytics at **Cornell University**/
+Hi, I’m Ashna, an early admit ORIE M.Eng student with a concentration in Data Analytics at **Cornell University**/
 
 ---
 
