@@ -1,12 +1,39 @@
-# Welcome to my website!
-I'm Ashna Gupta, an M.Eng. student at Cornell in ORIE.
+---
+layout: default
+title: Ashna Gupta
+---
 
-## About Me
-I love data science, optimization, and building impactful tech.
+# Welcome!
 
-## Projects
-- [U.S. 1990 Census Crime Analysis](#)
-- [](#)
+Hi, I’m **Ashna Gupta**! I'm pursuing an M.Eng in Operations Research & Information Engineering with a concentration in Data Analytics at **Cornell University**/
 
-## Misc
-- I have a Yorkie and I'm obsessed with ramen.
+---
+
+## 📌 About Me
+
+- Originally from Northern New Jersey
+- Previously interned at **Amazon** and **Procter & Gamble**
+- Interested in software development and data science
+
+---
+
+## 💼 Projects
+
+### 🔹 Community Crime Prediction (Cornell)
+Built logistic and linear models using socioeconomic features to predict violent crime rates in U.S. communities. The project included model selection, evaluation metrics, and final policy recommendations.
+
+---
+
+## 🌐 Resume & Links
+
+- [LinkedIn](https://www.linkedin.com/in/ashnagupta843) 
+- [GitHub](https://github.com/ag843)
+
+---
+
+## 🌀 Fun Stuff
+
+- I have a Yorkie
+- I love Trader Joe's and Iced Coffee
+
+---
