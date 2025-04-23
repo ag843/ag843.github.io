@@ -15,13 +15,13 @@ Hi, I’m Ashna, an early admit M.Eng student at Cornell. I'm interested in soft
 
 ---
 ## Important Coursework
--CS 2110: Object-Oriented Prog & Data Struc
--ORIE 3310: Optimization II
--ORIE 3510: Intro to Engineering Stochastic Proc I
--ORIE 4580: Simulation Modeling & Analysis
--ORIE 5160: Topics in Data Science (Optimized Democracy)
--ORIE 5270: Big Data Technologies
--ORIE 5741: Learning with Big Messy Data
+- CS 2110: Object-Oriented Prog & Data Struc
+- ORIE 3310: Optimization II
+- ORIE 3510: Intro to Engineering Stochastic Proc I
+- ORIE 4580: Simulation Modeling & Analysis
+- ORIE 5160: Topics in Data Science (Optimized Democracy)
+- ORIE 5270: Big Data Technologies
+- ORIE 5741: Learning with Big Messy Data
 
 ## Projects
 
@@ -33,8 +33,7 @@ Hi, I’m Ashna, an early admit M.Eng student at Cornell. I'm interested in soft
 - Developing a Python script to streamline domestic part ordering, optimizing inventory management for Toyota Material Handling.
 
 ### [Crop Classification App](https://ee-ashnagupta.projects.earthengine.app/view/cultivate-land-prediction)
-Developed a Google Earth Engine-based application using Landsat 8 imagery to classify cropland and predict cultivated areas across
-South Dakota, Minnesota, and North Dakota with a random forest classifier, achieving 73% accuracy.
+- Developed a Google Earth Engine-based application using Landsat 8 imagery to classify cropland and predict cultivated areas across South Dakota, Minnesota, and North Dakota with a random forest classifier, achieving 73% accuracy.
 
 ---
 
