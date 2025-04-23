@@ -2,7 +2,6 @@
 layout: default
 title: Ashna Gupta
 ---
-
 # Welcome!
 
 Hi, I’m **Ashna Gupta**! I'm pursuing an M.Eng in Operations Research & Information Engineering with a concentration in Data Analytics at **Cornell University**/
