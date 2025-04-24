@@ -16,14 +16,15 @@ Hi, I’m Ashna, an early admit M.Eng student at Cornell. I'm interested in soft
 
 ---
 ## Important Coursework
-- CS 2110: Object-Oriented Prog & Data Struc
+- CS 2110: Object-Oriented Programming & Data Structures
 - ORIE 3310: Optimization II
-- ORIE 3510: Intro to Engineering Stochastic Proc I
+- ORIE 3510: Introduction to Engineering Stochastic Processes I
 - ORIE 4580: Simulation Modeling & Analysis
 - ORIE 5160: Topics in Data Science (Optimized Democracy)
 - ORIE 5270: Big Data Technologies
 - ORIE 5741: Learning with Big Messy Data
-
+  
+---
 ## Projects
 
 ### [Analysis of Violent Crime Rates](https://github.com/ag843/Violent-Crime-Rates-Analysis/blob/main/Analysis%20of%20Community%20Violent%20Crime%20Rates.pdf)
@@ -48,7 +49,7 @@ Hi, I’m Ashna, an early admit M.Eng student at Cornell. I'm interested in soft
 
 ## Fun Stuff!
 
-- I have a Yorkie named Toffee
+- I have a yorkie named Toffee
 - I love iced coffee
 
 ---
