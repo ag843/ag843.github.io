@@ -2,7 +2,7 @@
 layout: default
 title: Ashna Gupta
 ---
-[Home](/) | [About](/about)
+[Home](/) | [Contact Info](/contact)
 ## Welcome!
 <img src="/assets/css/profile.JPEG" alt="Ashna" width="150" height="150" style="border-radius: 50%; object-fit: cover; display: block; margin: 0 auto 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 
@@ -39,15 +39,6 @@ Hi, I’m Ashna, an early admit M.Eng student at Cornell. I'm interested in soft
 - Developed a Google Earth Engine-based application using Landsat 8 imagery to classify cropland and predict cultivated areas across South Dakota, Minnesota, and North Dakota with a random forest classifier, achieving 73% accuracy.
 
 ---
-
-## Contact Info & Links
-
-- [LinkedIn](https://www.linkedin.com/in/ashnagupta843) 
-- [GitHub](https://github.com/ag843)
-- [Email](mailto:ag843@cornell.edu)
-
----
-
 ## Fun Stuff!
 
 - I have a yorkie named Toffee
