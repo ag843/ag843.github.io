@@ -2,6 +2,7 @@
 layout: default
 title: Ashna Gupta
 ---
+[Home](/) | [About](/about)
 ## Welcome!
 <img src="/assets/css/profile.JPEG" alt="Ashna" width="150" height="150" style="border-radius: 50%; object-fit: cover; display: block; margin: 0 auto 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 
