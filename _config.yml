@@ -2,4 +2,4 @@ theme: jekyll-theme-hacker
 title: Ashna Gupta
 description: ORIE M.Eng Student at Cornell | Data Analytics
 header_pages:
-  - about.md
+- about.md
