@@ -2,7 +2,7 @@
 layout: default
 title: Contact
 ---
-[Home](/) | [Contact](/contact)
+[Contact](/contact)
 
 # Contact
 
