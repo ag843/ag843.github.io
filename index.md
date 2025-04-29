@@ -10,12 +10,9 @@ title: Ashna Gupta
 Hi, I’m Ashna, an early admit M.Eng student at Cornell. I'm interested in software development, data engineering, and machine learning. I hope to be a data scientist in the near future!
 ---
 
-## About Me
-
-- I completed my undergrad at Cornell as an Operations Research and Information Engineering Major (ORIE) with a minor in Data Science
-- Originally from Northern New Jersey
-- Previously interned at **Amazon** (Financial Analyst Intern, WA) and **Procter & Gamble** (Process Engineering Intern, MA)
-- Engineering Peer Advisor and Principles of Supply Chain Management TA
+## By Background
+- ORIE M.Eng from Cornell University (Dec 2025), Data Analytics Concentration
+- B.S. from Cornell University, Operations Research and Information Engineering (ORIE) Major, Data Science Minor
 
 ---
 ## Important Coursework
