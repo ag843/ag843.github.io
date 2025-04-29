@@ -15,7 +15,7 @@ As part of my final project for ORIE 3120, I worked with a team to analyze the r
 ---
 ### Toyota Material Handling
 
-For my Master of Engineering Capstone Project, I am working with a team to develop a Python-based solution to streamline domestic part ordering for Toyota Material Handling. Our goal is to optimize inventory management processes by automating parts classification and order recommendations. This project has strengthened my experience applying data-driven solutions to real-world supply chain challenges, with a focus on practical operational improvements.
+For my Master of Engineering Capstone Project, I am working with a team to modernize and automate the parts ordering system at Toyota Material Handling. We are developing a Python-based classification tool, supported by a SQL database, to streamline part categorization within their "Plan for Every Part" (PFEP) system. Our tool uses historical ordering data, supplier distance, lead time, and usage variability to recommend optimized ordering strategies, aligning with Toyota’s lean manufacturing and continuous improvement principles. The project focuses on local suppliers to the Indiana plant and aims to reduce inventory costs, improve inventory turnover, and minimize manual categorization errors. In addition to the backend automation, we are building a user-friendly interface and Power BI dashboards to help operational teams quickly visualize parts data and track key performance metrics. This experience has strengthened my skills in supply chain analytics, database management, and the application of lean principles to large-scale industrial operations.
 
 ---
 ### [Crop Classification App](https://ee-ashnagupta.projects.earthengine.app/view/cultivate-land-prediction)
