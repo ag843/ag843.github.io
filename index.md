@@ -19,6 +19,7 @@ Hi, I’m Ashna, an early admit M.Eng student at Cornell. I'm interested in soft
 - CS 2110: Object-Oriented Programming & Data Structures
 - ORIE 3310: Optimization II
 - ORIE 3510: Introduction to Engineering Stochastic Processes I
+- ORIE 3120: Practical Tools for Operations Research, Machine Learning and Data Science
 - ORIE 4580: Simulation Modeling & Analysis
 - ORIE 5160: Topics in Data Science (Optimized Democracy)
 - ORIE 5270: Big Data Technologies
