@@ -38,9 +38,3 @@ Hi, I’m Ashna, an early admit M.Eng student at Cornell. I'm interested in soft
 - Developed a Google Earth Engine-based application using Landsat 8 imagery to classify cropland and predict cultivated areas across South Dakota, Minnesota, and North Dakota with a random forest classifier, achieving 73% accuracy.
 
 ---
-## Fun Stuff!
-
-- I have a yorkie named Toffee
-- I love iced coffee
-
----
